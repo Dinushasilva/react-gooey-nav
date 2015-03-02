@@ -117,7 +117,7 @@
 	  },
 	  menuCss:function() {
 	    var width = '650px';
-	    var height = '150px';
+	    var height = '100%';
 	    return assign(baseCss.menu, {
 	      width: width,
 	      height: height
